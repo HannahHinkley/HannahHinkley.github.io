@@ -34,7 +34,7 @@ body {
 <img src="IMG_5952.jpg">
     <h2>CS 171 Lab One</h2>
 <p>My name is Hannah Hinkley. I am a senior at Albion college. I am majoring in Mathematics with an Actuarial Emphasis. I am really looking forward to my future career and starting my life. I am really passionate when it comes to mathematics and I love to play with numbers. Out of the class room, I am the Vice President of Finance in Kappa Alpha Theta, and the President of the Albion College Actuarial Interest Group. I was previously the Treasurer for the Actuarial Interest Group for sophomore and junior year. In my free time I like to read, play the Sims 4, and hangout with friends. I also work for Family Fare Pharmacy as a technician and I am a member of the Albion Colleges Cheerleading team. </p>
-<p>Here are a couple links to sone of my favorite websites: <a href="https://youtu.be/dQw4w9WgXcQ?feature=shared">Youtube</a>, <a href="https://www.tiktok.com/@randomspamvideos25/video/7251387037834595630">TikTok</a>, and <a href="https://www.instagram.com/reel/CGh4a0iASGS/">Instagram</a>.
+<p>Here are a couple links to some of my favorite websites: <a href="https://youtu.be/dQw4w9WgXcQ?feature=shared">Youtube</a>, <a href="https://www.tiktok.com/@randomspamvideos25/video/7251387037834595630">TikTok</a>, and <a href="https://www.instagram.com/reel/CGh4a0iASGS/">Instagram</a>.
                                                      </p>
     
 </body>
