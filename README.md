@@ -3,19 +3,20 @@
 <meta charset="utf-8">
 <title>Hannah M. Hinkley</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Cursive:wght@400..700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Cursive:wght@400..700&display=swap" rel="stylesheet">
     <style>
 body {
     background-color: #ebb8dd; 
-.edu-nsw-act-cursive-<uniquifier> {
-  font-family: "Edu NSW ACT Cursive", cursive;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
+    font-family: "Edu NSW ACT Cursive", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
 }
         h1 { color:#73325f;text-align: center;}
         h2 {color:rgb(163, 27, 120);text-align: center;}
+    </style>
+    <style>
         img{
             width:300px;
             border:5px solid #7d1a5e;
