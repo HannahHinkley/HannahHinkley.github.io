@@ -8,11 +8,12 @@
     <style>
 body {
     background-color: #ebb8dd; 
-        font-family: "Edu NSW ACT Cursive", cursive;
+.edu-nsw-act-cursive-<uniquifier> {
+  font-family: "Edu NSW ACT Cursive", cursive;
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
-    }
+}
         h1 { color:#73325f;text-align: center;}
         h2 {color:rgb(163, 27, 120);text-align: center;}
         img{
